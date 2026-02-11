@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://cogsci-mannheim.github.io/sitemap.xml
+Sitemap: https://cogsci-mannheim.github.io/cogsci-mannheim/sitemap.xml
