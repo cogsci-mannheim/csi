@@ -83,6 +83,17 @@ ninja.data = [{
             window.location.href = "/csi/blog/2026/welcome-to-cogsci-mannheim/";
           
         },
+      },{id: "post-meeting1-reps",
+        
+          title: "Meeting1 Reps",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/csi/blog/2026/meeting1-reps/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
