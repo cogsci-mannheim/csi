@@ -149,17 +149,6 @@ ninja.data = [{
             window.location.href = "/csi/blog/2024/pseudocode/";
           
         },
-      },{id: "post-a-post-with-vega-lite",
-        
-          title: "a post with vega lite",
-        
-        description: "this is what included vega lite code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/csi/blog/2024/vega-lite/";
-          
-        },
       },{id: "post-a-post-with-jupyter-notebook",
         
           title: "a post with jupyter notebook",
