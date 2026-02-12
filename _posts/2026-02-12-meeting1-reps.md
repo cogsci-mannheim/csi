@@ -7,15 +7,20 @@ tags: news welcome
 categories: updates
 ---
 
-Welcome to the official website and blog of the **Cognitive Science initiative at the University of Mannheim**! 
+This week we had our first meetings where we discussed the concept of representations (reps) in depth bringing together different points of view from our respective disciplines. We started with examining reps in experimental and cognitive psychology, followed by psycholinguistics and theoretical linguistics. These very active and lively discussions were followed by insights from theoretical philosophy and computational science. The next steps are to now identify recurring topics and to work on the sentence "Diese Woche bekomme ich einen Hund" (this week I'll get a dog) from our respective fields to see similarities and differences in more concrete terms. 
 
-Our goal is to create a vibrant, interdisciplinary community that bridges the gap between psychology, linguistics, philosophy, and computer science. Through this blog, we aim to share:
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html 
+           path="assets/img/meeting1-reps.png" 
+           title="Representations take 1" 
+           class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The University of Mannheim campus, home to our Cognitive Science initiative.
+</div>
 
-* **Research Updates**: Insights into our latest findings and ongoing projects.
-* **Events**: Announcements for seminars, workshops, and guest lectures.
-* **Community News**: Introducing new members and celebrating achievements within our lab and initiative.
-
-We are excited to share our journey with you. Stay tuned for our upcoming events and research highlights!
 
 ---
 *For more information about our mission, visit our [About]({{ '/about/' | relative_url }}) page.*
