@@ -72,15 +72,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/csi/blog/";
               },
-            },{id: "post-meeting1-reps",
+            },{id: "post-second-meeting-on-representations",
         
-          title: "Meeting1 Reps",
+          title: "Second meeting on representations",
         
-        description: "",
+        description: "Discussing representations",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/csi/blog/2026/meeting1-reps/";
+            window.location.href = "/csi/blog/2026/meeting2-reps/";
           
         },
       },{id: "post-launching-the-cognitive-science-initiative-at-mannheim",
