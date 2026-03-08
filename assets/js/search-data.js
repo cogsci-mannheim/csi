@@ -72,15 +72,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/csi/blog/";
               },
-            },{id: "post-meeting4-reps",
+            },{id: "post-",
         
-          title: "Meeting4 Reps",
+          title: "",
         
         description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/csi/blog/2026/meeting4-reps/";
+            window.location.href = "/csi/blog/2026/2026-03-03-meeting4-reps/";
           
         },
       },{id: "post-third-meeting-on-representations",
