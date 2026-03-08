@@ -76,7 +76,7 @@ ninja.data = [{
         
           title: "Fourth meeting: working on the AvH proposal",
         
-        description: "Discussing representations and the nomination proposal with Charles",
+        description: "Working on the nomination proposal with Charles",
         section: "Posts",
         handler: () => {
           
