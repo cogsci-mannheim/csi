@@ -72,15 +72,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/csi/blog/";
               },
-            },{id: "post-third-meeting-on-representations",
+            },{id: "post-",
         
-          title: "Third meeting on representations",
+          title: "",
         
-        description: "Discussing representations and the nomination proposal with Charles",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/csi/blog/2026/meeting4-reps/";
+            window.location.href = "/csi/blog/2026/2026-03-03-meeting4-reps/";
           
         },
       },{id: "post-third-meeting-on-representations",
