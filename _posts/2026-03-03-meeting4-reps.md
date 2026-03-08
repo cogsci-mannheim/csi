@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Fourth meeting: working on the AvH proposal with Charles
+title: Fourth meeting: working on the AvH proposal 
+with Charles
 date: 2026-03-03 09:00:00
-description: Working on the nomination proposal with Charles take 2
+description: Working on the nomination proposal 
+with Charles take 2
 tags: news welcome
 categories: updates
 ---
