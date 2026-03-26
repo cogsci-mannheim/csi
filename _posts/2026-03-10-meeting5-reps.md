@@ -1,3 +1,13 @@
+---
+layout: post
+title: "Fifth meeting: final steps to the AvH proposal before the deadline"
+date: 2026-03-10 09:00:00
+description: Working on the nomination proposal with Charles
+tags: news welcome
+categories: updates
+---
+
+
 This week, we had the deadline for the application for the Alexander von Humboldt Research Professorship. We had all read thoroughly through all texts and refined parts. It was again a full day of hard work and intensive collaboration and we felt things coming together nicely. Charles joined us again for the final stroke before we sent off everything. 
 
 <img src="{{ '/assets/img/meeting5-reps.jpg' | relative_url }}" width="400" alt="Representations Take 5">
