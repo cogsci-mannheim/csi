@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sixth meeting: working on representations"
-date: 2026-03-03 09:00:00
+date: 2026-03-25 09:00:00
 description: Working on representations
 tags: news welcome
 categories: updates
