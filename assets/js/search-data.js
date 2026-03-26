@@ -83,11 +83,11 @@ ninja.data = [{
             window.location.href = "/csi/blog/2026/meeting6-reps/";
           
         },
-      },{id: "post-meeting5-reps",
+      },{id: "post-fifth-meeting-final-steps-to-the-avh-proposal-before-the-deadline",
         
-          title: "Meeting5 Reps",
+          title: "Fifth meeting: final steps to the AvH proposal before the deadline",
         
-        description: "",
+        description: "Working on the nomination proposal with Charles",
         section: "Posts",
         handler: () => {
           
