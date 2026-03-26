@@ -83,6 +83,17 @@ ninja.data = [{
             window.location.href = "/csi/blog/2026/meeting6-reps/";
           
         },
+      },{id: "post-meeting5-reps",
+        
+          title: "Meeting5 Reps",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/csi/blog/2026/meeting5-reps/";
+          
+        },
       },{id: "post-fourth-meeting-working-on-the-avh-proposal",
         
           title: "Fourth meeting: working on the AvH proposal",
