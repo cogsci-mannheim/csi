@@ -83,6 +83,17 @@ ninja.data = [{
             window.location.href = "/csi/blog/2026/meeting6-reps/";
           
         },
+      },{id: "post-fifth-meeting-final-steps-to-the-avh-proposal-before-the-deadline",
+        
+          title: "Fifth meeting: final steps to the AvH proposal before the deadline",
+        
+        description: "Working on the nomination proposal with Charles",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/csi/blog/2026/meeting5-reps/";
+          
+        },
       },{id: "post-fourth-meeting-working-on-the-avh-proposal",
         
           title: "Fourth meeting: working on the AvH proposal",
