@@ -166,8 +166,8 @@ ninja.data = [{
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          title: 'Project 1',
+          description: "The threshold of reason",
           section: "Projects",handler: () => {
               window.location.href = "/csi/projects/1_project/";
             },},{id: "teachings-data-science-fundamentals",
