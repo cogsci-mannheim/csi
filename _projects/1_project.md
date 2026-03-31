@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Project 1
+description: The threshold of reason
 img: assets/img/threshold-reason.jpg
 importance: 1
 category: work
