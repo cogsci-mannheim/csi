@@ -168,11 +168,6 @@ ninja.data = [{
           description: "",
           section: "Teachings",handler: () => {
               window.location.href = "/csi/teachings/data-science-fundamentals/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/csi/teachings/introduction-to-machine-learning/";
             },},{
         id: 'social-cv',
         title: 'CV',
