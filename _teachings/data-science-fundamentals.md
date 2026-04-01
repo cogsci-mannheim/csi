@@ -1,3 +1,4 @@
+---
 layout: course
 title: >
   Lecture Unwrapping the mind: knowledge, cognition and AI
@@ -9,7 +10,6 @@ term: Autumn
 location: Schloss, EO 150
 time: Wednesdays, 5:15-6:45 PM
 course_id: intro-cognitive-science
----
 
 schedule:
   - week: 1
