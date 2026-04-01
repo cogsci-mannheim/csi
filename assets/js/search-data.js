@@ -165,7 +165,7 @@ ninja.data = [{
               window.location.href = "/csi/projects/1_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
+          description: "",
           section: "Teachings",handler: () => {
               window.location.href = "/csi/teachings/data-science-fundamentals/";
             },},{id: "teachings-introduction-to-machine-learning",
