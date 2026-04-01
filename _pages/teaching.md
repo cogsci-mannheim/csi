@@ -2,13 +2,12 @@
 layout: page
 permalink: /activities/
 title: teaching
-description: information about activities like guest lectures, talks, workshops
+description: information about our activities like guest lectures, talks, workshops
 nav: true
 nav_order: 6
 calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
 
 {% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
 
