@@ -163,8 +163,8 @@ ninja.data = [{
           description: "Representations in cognitive science",
           section: "Projects",handler: () => {
               window.location.href = "/csi/projects/1_project/";
-            },},{id: "teachings-data-science-fundamentals",
-          title: 'Data Science Fundamentals',
+            },},{id: "teachings-",
+          title: '',
           description: "",
           section: "Teachings",handler: () => {
               window.location.href = "/csi/teachings/data-science-fundamentals/";
