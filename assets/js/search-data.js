@@ -167,7 +167,7 @@ ninja.data = [{
           title: 'Lecture Unwrapping the mind: knowledge, cognition and AI',
           description: "In this lecture series, experts in cognitive science explored what makes human cognition exceptional (if at all), how AI challenges our understanding of intelligence, and what we can gain from integrating AI into cognitive research. We will also address how insights from human cognition can help develop more efficient, interpretable AI models and examine the ethical considerations that come with their use.",
           section: "Teachings",handler: () => {
-              window.location.href = "/csi/teachings/data-science-fundamentals/";
+              window.location.href = "/csi/teachings/lecture-unwrapping-the-mind/";
             },},{
         id: 'social-cv',
         title: 'CV',
