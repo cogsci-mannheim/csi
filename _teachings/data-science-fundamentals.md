@@ -1,14 +1,14 @@
 ---
 layout: course
-title: Lecture Unwrapping the mind: knowledge, cognition and AI 
-description: In this lecture series, experts in cognitive science explored what makes human cognition exceptional (if at all), how AI challenges our understanding of intelligence, and what we can gain from integrating AI into cognitive research. We will also address how insights from human cognition can help develop more efficient, interpretable AI models and examine the ethical considerations that come with their use.
-instructor: Prof. Arndt Bröder, Prof. Beatrice, Kuhlmann, Prof. Nicole Altvater-Mackensen, Prof. Carola Trips, Prof. Simone Ponzetto, Prof. Wolfgang Freitag 
+title: Lecture "Unwrapping the mind: knowledge, cognition and AI"
+description: > In this lecture series, experts in cognitive science explored what makes human cognition exceptional (if at all), how AI challenges our understanding of intelligence, and what we can gain from integrating AI into cognitive research. We will also address how insights from human cognition can help develop more efficient, interpretable AI models and examine the ethical considerations that come with their use.
+instructor: "Prof. Arndt Bröder, Prof. Beatrice, Kuhlmann, Prof. Nicole Altvater-Mackensen, Prof. Carola Trips, Prof. Simone Ponzetto, Prof. Wolfgang Freitag"
 year: 2025
 term: Autumn
 location: Schloss, EO 150
 time: Wednesdays, 5:15-6:45 PM
 course_id: intro-cognitive-science 
----
+
 
 schedule:
   - week: 1
@@ -71,3 +71,4 @@ schedule:
       - name: Assignment 3
         url: /assets/pdf/example_pdf.pdf
 
+---
