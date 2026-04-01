@@ -163,6 +163,11 @@ ninja.data = [{
           description: "Representations in cognitive science",
           section: "Projects",handler: () => {
               window.location.href = "/csi/projects/1_project/";
+            },},{id: "teachings-lecture-unwrapping-the-mind-knowledge-cognition-and-ai",
+          title: 'Lecture Unwrapping the mind: knowledge, cognition and AI',
+          description: "In this lecture series, experts in cognitive science explored what makes human cognition exceptional (if at all), how AI challenges our understanding of intelligence, and what we can gain from integrating AI into cognitive research. We will also address how insights from human cognition can help develop more efficient, interpretable AI models and examine the ethical considerations that come with their use.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/csi/teachings/data-science-fundamentals/";
             },},{
         id: 'social-cv',
         title: 'CV',
