@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "information about activities like guest lectures, talks, workshops",
+          description: "information about our activities like guest lectures, talks, workshops",
           section: "Navigation",
           handler: () => {
             window.location.href = "/csi/activities/";
