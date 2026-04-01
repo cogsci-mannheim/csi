@@ -160,7 +160,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'Project 1',
-          description: "The threshold of reason",
+          description: "title of project",
           section: "Projects",handler: () => {
               window.location.href = "/csi/projects/1_project/";
             },},{id: "teachings-data-science-fundamentals",
