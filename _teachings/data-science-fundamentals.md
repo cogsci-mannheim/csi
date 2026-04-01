@@ -1,13 +1,19 @@
 ---
 layout: course
-title: Data Science Fundamentals
-description: This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.
-instructor: Prof. Data
-year: 2024
-term: Spring
-location: Science Building, Room 202
-time: Mondays and Wednesdays, 2:00-3:30 PM
-course_id: data-science-fundamentals
+title: Lecture "Unwrapping the mind: knowledge, cognition and AI" 
+description: In this lecture series, experts in cognitive science explored what makes
+human cognition exceptional (if at all), how AI challenges our
+understanding of intelligence, and what we can gain from integrating AI
+into cognitive research. We will also address how insights from human
+cognition can help develop more efficient, interpretable AI models and
+examine the ethical considerations that come with their use.
+instructor: Prof. Arndt Bröder, Prof. Beatrice, Kuhlmann, Prof. Nicole Altvater-Mackensen, Prof. Carola Trips, Prof. Simone Ponzetto, Prof. Wolfgang Freitag 
+year: 2025
+term: Autumn
+location: Schloss, EO 150
+time: Wednesdays, 5:15-6:45 PM
+course_id: intro-cognitive-science 
+
 schedule:
   - week: 1
     date: Feb 5
@@ -68,30 +74,4 @@ schedule:
         url: /assets/pdf/example_pdf.pdf
       - name: Assignment 3
         url: /assets/pdf/example_pdf.pdf
----
 
-## Course Overview
-
-This course provides a comprehensive introduction to data science principles and practices. Students will:
-
-- Learn the end-to-end data science workflow
-- Gain practical experience with data manipulation tools
-- Develop skills in data visualization and communication
-- Apply statistical methods to derive insights from data
-
-## Prerequisites
-
-- Basic programming knowledge (preferably in Python)
-- Introductory statistics
-- Comfort with basic algebra
-
-## Textbooks
-
-- "Python for Data Analysis" by Wes McKinney
-- "Data Science from Scratch" by Joel Grus
-
-## Grading
-
-- Assignments: 50%
-- Project: 40%
-- Participation: 10%
