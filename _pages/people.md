@@ -14,7 +14,7 @@ profiles:
     content: arndt_broeder.md
     image_circular: false # crops the image to make it circular
     more_info: >
-    <p>Professor of Experimental Psychology</p>
+      <p>Professor of Experimental Psychology</p>
       <p>University of Mannheim</p>
   - align: left
     image: kuhlmann.jpg
