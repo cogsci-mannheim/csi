@@ -4,6 +4,7 @@ title: >
   Lecture Unwrapping the mind: knowledge, cognition and AI
 description: >
   In this lecture series, experts in cognitive science explored what makes human cognition exceptional (if at all), how AI challenges our understanding of intelligence, and what we can gain from integrating AI into cognitive research. We will also address how insights from human cognition can help develop more efficient, interpretable AI models and examine the ethical considerations that come with their use.
+---
 
 > ### Course Details
 > - 👨‍🏫 **Instructors:** Prof. Arndt Bröder, Prof. Beatrice Kuhlmann, Prof. Nicole Altvater-Mackensen, Prof. Carola Trips, Prof. Simone Ponzetto, Prof. Wolfgang Freitag, Prof. Charles Yang (UPenn)
@@ -11,7 +12,6 @@ description: >
 > - 🕒 **Time:** Wednesdays, 5:15-6:45 PM, Autumn semester 2025
 > - 🎓 **Course ID:** intro-cognitive-science
 > - 
----
 
 ### Course Schedule
 
