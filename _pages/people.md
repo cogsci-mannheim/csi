@@ -33,4 +33,22 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Professor of English Linguistics</p>
+  - align: right
+    image: freitag.jpg
+    content: wolfgang_freitag.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Professor of Theoretical Philosophy</p>
+  - align: left
+    image: ponzetto.jpg
+    content: simone_ponzetto.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Professor of Computational Science</p>
+  - align: right
+    image: yang.jpg
+    content: charles_yang.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Professor of Linguistics</p>  
 ---
