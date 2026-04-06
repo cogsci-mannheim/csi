@@ -11,105 +11,22 @@ location: Schloss, EO 150
 time: Wednesdays, 5:15-6:45 PM
 course_id: intro-cognitive-science
 
-schedule:
-  - week: 1
-    date: Sept 3
-    topic: Introduction to the lecture
-    description: Overview of the lecture presented by the researchers taking part
-    materials:
-      - name: Slides
-        url: /assets/pdf/slides-intro.pdf
+### Course Schedule
 
-  - week: 2
-    date: Sept 10
-    topic: Knowledge representation and processing models in Cognitive Psychology
-    description: Arndt Bröder (Experimental Psychology) discusses his strands of research
-    materials:
-      - name: Slides
-        url: /assets/pdf/slides-broeder.pdf
+| Week | Date | Topic | Materials |
+|:---:|:---:|:---|:---|
+| 1 | Sept 3 | **Introduction** | [Slides](/assets/pdf/slides-intro.pdf) |
+| 2 | Sept 10 | **Knowledge Representation** | [Slides](/assets/pdf/slides-broeder.pdf) |
+| 3 | Sept 17 | **Cognitive Aging** | [Slides](/assets/pdf/slides-kuhlmann.pdf) |
+| 4 | Sept 24 | **Metacognition** | [Slides](/assets/pdf/slides-undorf.pdf) |
+| 5 | Oct 1 | **Evolution of Communication** | [Slides](/assets/pdf/slides-bohn.pdf) |
+| 6 | Oct 8 | **Statistics and Hierarchies** | [Slides](/assets/pdf/slides-nam.pdf) |
+| 7 | Oct 15 | **Learnability in Diachrony** | [Slides](/assets/pdf/slides-trips.pdf) |
+| 8 | Oct 22 | **How to Stop** | [Slides](/assets/pdf/slides-yang.pdf) |
+| 9 | Oct 29 | **Can Humans Think?** | [Slides](/assets/pdf/slides-freitag.pdf) |
+| 10 | Nov 5 | **AI & Intentional Stance** | [Slides](/assets/pdf/slides-raleigh.pdf) |
+| 11 | Nov 12 | **Confessions of a Comp. Linguist** | [Slides](/assets/pdf/slides-ponzetto.pdf) |
+| 12 | Nov 19 | **Morality in Brains/Machines** | [Slides](/assets/pdf/slides-hopp.pdf) |
+| 13 | Nov 26 | **Final Discussion** | - |
 
-  - week: 3
-    date: Sept 17
-    topic: The psychology of cognitive aging: Beyond old, slow computers
-    description: Beatrice Kuhlmann (Cognitive Psychology) discusses her strands of research
-    materials:
-      - name: Slides
-        url: /assets/pdf/slides-kuhlmann.pdf
-
-  - week: 4
-    date: Sept 24
-    topic: Metacognition: A capacity that makes us smart
-    description: invited talk, Monika Undorf (Cognitive Psychology, TU Darmstadt) discusses her strands of research
-    materials:
-      - name: Slides
-        url: /assets/pdf/slides-undorf.pdf
-
-  - week: 5
-    date: Oct 1
-    topic: A common framework to study the evolution and development of human communication
-    description: invited talk, Manuel Bohn (Developmental psychology, Leuphana Lüneburg) discusses his strands of research
-    materials:
-      - name: Slides
-        url: /assets/pdf/slides-bohn.pdf
-
-  - week: 6
-    date: Oct 8
-    topic: About statistics and hierarchies in language and beyond
-    description: Nicole Altvater-Mackensen (Psycholinguistics) discusses her strands of research
-    materials:
-      - name: Slides
-        url: /assets/pdf/slides-nam.pdf
-
-  - week: 7
-    date: Oct 15
-    topic: Learnability in diachrony
-    description: Carola Trips (Linguistics) discusses her strands of research
-    materials:
-      - name: Slides
-        url: /assets/pdf/slides-trips.pdf
-
-  - week: 8
-    date: Oct 22
-    topic: How to stop
-    description: Charles Yang (Linguistics, UPenn) discusses his strands of research
-    materials:
-      - name: Slides
-        url: /assets/pdf/slides-yang.pdf
-
-  - week: 9
-    date: Oct 29
-    topic: Can Humans Think?
-    description: Wolfgang Freitag (Theoretical Philosophy) discusses his strands of research
-    materials:
-      - name: Slides
-        url: /assets/pdf/slides-freitag.pdf
-
-  - week: 10
-    date: Nov 5
-    topic: AI and the Intentional Stance
-    description: Thomas Raleigh (Philosophy, University of Luxemburg) discusses his strands of research
-    materials:
-      - name: Slides
-        url: /assets/pdf/slides-raleigh.pdf
-
-  - week: 11
-    date: Nov 12
-    topic: "Confessions of a Computational Linguist: What We Lost and Gained in the Age of Large Language Models"
-    description: Simone Ponzetto (Computer Science) discusses his strands of research
-    materials:
-      - name: Slides
-        url: /assets/pdf/slides-ponzetto.pdf
-
-  - week: 12
-    date: Nov 19
-    topic: Morality in Brains, Minds, and Machines
-    description: Frederic R. Hopp (Psychology, ZPID Trier) discusses his strands of research
-    materials:
-      - name: Slides
-        url: /assets/pdf/slides-hopp.pdf
-
-  - week: 13
-    date: Nov 26
-    topic: Final discussion
-    description: Interactive final discussion including questions and comments of students
 ---
