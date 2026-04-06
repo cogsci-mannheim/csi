@@ -38,12 +38,33 @@
 @use "font-awesome/solid";
 @use "font-awesome/regular";
 
-.navbar-nav .nav-item {
-    font-size: 0.9rem !important; /* Makes the menu text slightly smaller */
-    margin-left: 10px !important; /* Reduces the gap between menu items */
+/* Fix for Navigation Overlap */
+.navbar {
+    padding-left: 5px !important;
+    padding-right: 5px !important;
 }
 
 .navbar-brand {
-    font-size: 1.1rem !important; /* Slightly shrinks the "Cognitive Science..." title */
-    max-width: 40%; /* Prevents the title from pushing the menu off-screen */
+    /* Shrinks the title slightly so it doesn't hog the left side */
+    font-size: 1.1rem !important; 
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 50%; /* Limits title to half the screen width */
 }
+
+.navbar-nav .nav-item {
+    /* Reduces the font size of 'Teaching', 'Publications', etc. */
+    font-size: 0.85rem !important;
+    /* Reduces the horizontal gap between the links */
+    margin-left: 0.5rem !important;
+    margin-right: 0.5rem !important;
+}
+
+/* Ensures the menu stays on one line on medium screens (Tablets/Laptops) */
+@media (min-width: 768px) and (max-width: 1024px) {
+    .navbar-nav .nav-link {
+        padding-left: 4px !important;
+        padding-right: 4px !important;
+        font-size: 0.75rem !important;
+    }
