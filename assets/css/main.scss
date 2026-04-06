@@ -37,3 +37,13 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
+
+.navbar-nav .nav-item {
+    font-size: 0.9rem !important; /* Makes the menu text slightly smaller */
+    margin-left: 10px !important; /* Reduces the gap between menu items */
+}
+
+.navbar-brand {
+    font-size: 1.1rem !important; /* Slightly shrinks the "Cognitive Science..." title */
+    max-width: 40%; /* Prevents the title from pushing the menu off-screen */
+}
