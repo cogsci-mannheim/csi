@@ -25,7 +25,7 @@ schedule:
     topic: Knowledge representation and processing models in Cognitive Psychology
     description: Arndt Bröder (Experimental Psychology) discusses his strands of research 
     materials:
-     - name: Slides
+      - name: Slides
         url: /assets/pdf/slides-broeder.pdf
 
   - week: 3
@@ -92,7 +92,7 @@ schedule:
       - name: Slides 
         url: /assets/pdf/slides-raleigh.pdf
         
-  -  week: 11
+ -  week: 11
     date: Nov 12
     topic: "Confessions of a Computational Linguist: What We Lost and Gained in the Age of Large Language Models"
     description: Simone Ponzetto (Computer Science) discusses his strands of research
