@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
+title: team
 description: members of the Cognitive Science Initiative
 nav: true
 nav_order: 7
