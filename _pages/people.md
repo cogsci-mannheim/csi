@@ -15,12 +15,22 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Professor of Experimental Psychology</p>
-      <p>University of Mannheim</p>
   - align: left
     image: kuhlmann.jpg
     content: beatrice_kuhlmann.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Professor of Cognitive Psychology</p>
-      <p>University of Mannheim</p>
+  - align: right
+    image: altvater_mackensen.jpg
+    content: altvater_mackensen.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Professor of Psycholinguistics</p>
+  - align: left
+    image: trips.jpg
+    content: carola_trips.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Professor of English Linguistics</p>
 ---
