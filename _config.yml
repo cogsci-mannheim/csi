@@ -199,7 +199,7 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
+  - _pages/people.md
   - purgecss.config.js
   - README.md
   - readme_preview/
@@ -279,8 +279,8 @@ display_categories: ["updates"] # these categories will be displayed on the fron
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: 
+  first_name: 
 
   style: apa
   locale: en
