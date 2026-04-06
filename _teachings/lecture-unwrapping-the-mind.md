@@ -10,6 +10,7 @@ term: Autumn
 location: Schloss, EO 150
 time: Wednesdays, 5:15-6:45 PM
 course_id: intro-cognitive-science
+---
 
 ### Course Schedule
 
@@ -29,4 +30,3 @@ course_id: intro-cognitive-science
 | 12 | Nov 19 | **Morality in Brains/Machines** | [Slides](/assets/pdf/slides-hopp.pdf) |
 | 13 | Nov 26 | **Final Discussion** | - |
 
----
