@@ -17,16 +17,16 @@ course_id: intro-cognitive-science
 | Week | Date | Topic | Materials |
 |:---:|:---:|:---|:---|
 | 1 | Sept 3 | **Introduction** | [Slides]({{ '/assets/pdf/slides-intro.pdf' | relative_url }}) |
-| 2 | Sept 10 | **Knowledge Representation** | [Slides](/assets/pdf/slides-broeder.pdf) |
-| 3 | Sept 17 | **Cognitive Aging** | [Slides](/assets/pdf/slides-kuhlmann.pdf) |
-| 4 | Sept 24 | **Metacognition** | [Slides](/assets/pdf/slides-undorf.pdf) |
-| 5 | Oct 1 | **Evolution of Communication** | [Slides](/assets/pdf/slides-bohn.pdf) |
-| 6 | Oct 8 | **Statistics and Hierarchies** | [Slides](/assets/pdf/slides-nam.pdf) |
-| 7 | Oct 15 | **Learnability in Diachrony** | [Slides](/assets/pdf/slides-trips.pdf) |
-| 8 | Oct 22 | **How to Stop** | [Slides](/assets/pdf/slides-yang.pdf) |
-| 9 | Oct 29 | **Can Humans Think?** | [Slides](/assets/pdf/slides-freitag.pdf) |
-| 10 | Nov 5 | **AI & Intentional Stance** | [Slides](/assets/pdf/slides-raleigh.pdf) |
-| 11 | Nov 12 | **Confessions of a Comp. Linguist** | [Slides](/assets/pdf/slides-ponzetto.pdf) |
-| 12 | Nov 19 | **Morality in Brains/Machines** | [Slides](/assets/pdf/slides-hopp.pdf) |
+| 2 | Sept 10 | **Knowledge Representation** | [Slides]({{ '/assets/pdf/slides-broeder.pdf' | relative_url }}) |
+| 3 | Sept 17 | **Cognitive Aging** | [Slides]({{ '/assets/pdf/slides-kuhlmann.pdf' | relative_url }}) |
+| 4 | Sept 24 | **Metacognition** | [Slides]({{ '/assets/pdf/slides-undorf.pdf' | relative_url }}) |
+| 5 | Oct 1 | **Evolution of Communication** | [Slides]({{ '/assets/pdf/slides-bohn.pdf' | relative_url }}) |
+| 6 | Oct 8 | **Statistics and Hierarchies** | [Slides]({{ '/assets/pdf/slides-nam.pdf' | relative_url }}) |
+| 7 | Oct 15 | **Learnability in Diachrony** | [Slides]({{ '/assets/pdf/slides-trips.pdf' | relative_url }}) |
+| 8 | Oct 22 | **How to Stop** | [Slides]({{ '/assets/pdf/slides-yang.pdf' | relative_url }}) |
+| 9 | Oct 29 | **Can Humans Think?** | [Slides]({{ '/assets/pdf/slides-freitag.pdf' | relative_url }}) |
+| 10 | Nov 5 | **AI & Intentional Stance** | [Slides]({{ '/assets/pdf/slides-raleigh.pdf' | relative_url }}) |
+| 11 | Nov 12 | **Confessions of a Comp. Linguist** | [Slides]({{ '/assets/pdf/slides-ponzetto.pdf' | relative_url }}) |
+| 12 | Nov 19 | **Morality in Brains/Machines** | [Slides]({{ '/assets/pdf/slides-hopp.pdf' | relative_url }}) |
 | 13 | Nov 26 | **Final Discussion** | - |
 
