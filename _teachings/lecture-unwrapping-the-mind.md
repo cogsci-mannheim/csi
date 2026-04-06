@@ -16,7 +16,7 @@ course_id: intro-cognitive-science
 
 | Week | Date | Topic | Materials |
 |:---:|:---:|:---|:---|
-| 1 | Sept 3 | **Introduction** | [Slides](assets/pdf/slides-intro.pdf) |
+| 1 | Sept 3 | **Introduction** | [Slides]({{ '/assets/pdf/slides-intro.pdf' | relative_url }}) |
 | 2 | Sept 10 | **Knowledge Representation** | [Slides](/assets/pdf/slides-broeder.pdf) |
 | 3 | Sept 17 | **Cognitive Aging** | [Slides](/assets/pdf/slides-kuhlmann.pdf) |
 | 4 | Sept 24 | **Metacognition** | [Slides](/assets/pdf/slides-undorf.pdf) |
