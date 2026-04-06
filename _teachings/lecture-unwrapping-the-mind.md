@@ -10,8 +10,6 @@ description: >
 > - 👨‍🏫 **Instructors:** Prof. Arndt Bröder, Prof. Beatrice Kuhlmann, Prof. Nicole Altvater-Mackensen, Prof. Carola Trips, Prof. Simone Ponzetto, Prof. Wolfgang Freitag, Prof. Charles Yang (UPenn)
 > - 📍 **Location:** Schloss, EO 150
 > - 🕒 **Time:** Wednesdays, 5:15-6:45 PM, Autumn semester 2025
-> - 🎓 **Course ID:** intro-cognitive-science
-> - 
 
 ### Course Schedule
 
