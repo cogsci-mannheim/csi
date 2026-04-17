@@ -80,9 +80,9 @@ ninja.data = [{
             window.location.href = "/csi/blog/2026/meeting5-reps/";
           
         },
-      },{id: "post-fourth-meeting-working-on-the-avh-proposal",
+      },{id: "post-fourth-meeting-working-on-our-joint-proposal",
         
-          title: "Fourth meeting: working on the AvH proposal",
+          title: "Fourth meeting: working on our joint proposal",
         
         description: "Working on the nomination proposal with Charles",
         section: "Posts",
