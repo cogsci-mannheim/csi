@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meeting 2 on representations
+title: "Meeting 2: working on representations"
 date: 2026-02-17 09:00:00
 description: Discussing representations
 tags: news welcome
