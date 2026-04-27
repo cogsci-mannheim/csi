@@ -11,4 +11,9 @@ profiles:
     content: arndt_broeder.md
     image_circular: false
     more_info: "Professor of Experimental Psychology"
+  - align: left
+    image: retreat_beatrice.jpg
+    content: beatrice_kuhlmann.md
+    image_circular: false
+    more_info: "Professor of Cognitive Psychology"   
 ---
