@@ -69,9 +69,9 @@ ninja.data = [{
             window.location.href = "/csi/blog/2026/meeting7-reps/";
           
         },
-      },{id: "post-sixth-meeting-working-on-representations",
+      },{id: "post-meeting-6-working-on-representations",
         
-          title: "Sixth meeting: working on representations",
+          title: "Meeting 6: working on representations",
         
         description: "Working on representations",
         section: "Posts",
