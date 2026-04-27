@@ -6,6 +6,7 @@ nav: true
 nav_order: 7
 ---
 
+---
 profiles:
   - align: right
     image: retreat_arndt.jpg
