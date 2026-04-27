@@ -15,36 +15,30 @@ profiles:
     image: retreat_beatrice.jpg
     content: beatrice_kuhlmann.md
     image_circular: false
-    more_info: >
-      <p>Professor of Cognitive Psychology</p>
+    more_info: "Professor of Cognitive Psychology"
   - align: right
     image: altvater_mackensen.jpg
     content: altvater_mackensen.md
     image_circular: false
-    more_info: >
-      <p>Professor of Psycholinguistics</p>
+    more_info: "Professor of Psycholinguistics"
   - align: left
     image: trips.jpg
     content: carola_trips.md
     image_circular: false
-    more_info: >
-      <p>Professor of English Linguistics</p>
+    more_info: "Professor of English Linguistics"
   - align: right
     image: freitag.jpg
     content: wolfgang_freitag.md
     image_circular: false
-    more_info: >
-      <p>Professor of Theoretical Philosophy</p>
+    more_info: "Professor of Theoretical Philosophy"
   - align: left
     image: ponzetto.jpg
     content: simone_ponzetto.md
     image_circular: false
-    more_info: >
-      <p>Professor of Computational Science</p>
+    more_info: "Professor of Computational Science"
   - align: right
     image: yang.jpg
     content: charles_yang.md
     image_circular: false
-    more_info: >
-      <p>Professor of Linguistics</p>
+    more_info: "Professor of Linguistics"
 ---
