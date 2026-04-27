@@ -102,9 +102,9 @@ ninja.data = [{
             window.location.href = "/csi/blog/2026/meeting4-reps/";
           
         },
-      },{id: "post-third-meeting-on-representations",
+      },{id: "post-meeting-3-on-representations",
         
-          title: "Third meeting on representations",
+          title: "Meeting 3 on representations",
         
         description: "Discussing representations and the nomination proposal with Charles",
         section: "Posts",
