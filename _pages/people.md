@@ -7,7 +7,7 @@ nav_order: 7
 
 profiles:
   - align: right
-    image: retreat-arndt.jpg
+    image: cas-arndt.jpg
     content: arndt_broeder.md
     image_circular: false
     more_info: "Professor of Experimental Psychology"
