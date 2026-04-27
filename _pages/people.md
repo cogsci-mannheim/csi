@@ -16,7 +16,7 @@ profiles:
     content: beatrice_kuhlmann.md
     image_circular: false
     more_info: "Professor of Cognitive Psychology"
-    - align: right
+  - align: right
     image: cas-nicole.jpg
     content: altvater_mackensen.md
     image_circular: false
