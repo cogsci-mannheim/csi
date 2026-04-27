@@ -1,5 +1,5 @@
 ---
-layout:page
+layout: page
 permalink: /people/
 title: people
 nav: true
