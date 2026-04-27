@@ -157,11 +157,11 @@ ninja.data = [{
             window.location.href = "/csi/blog/2026/meeting1-reps/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
+      },{id: "books-the-illusion-engine-the-quest-for-machine-consciousness",
+          title: 'The Illusion Engine: The Quest for Machine Consciousness',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/csi/books/the_godfather/";
+              window.location.href = "/csi/books/sekrst-illustion-engine/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
