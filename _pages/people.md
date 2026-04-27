@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /people/
+permalink: /csi/people/
 title: people
 nav: true
 nav_order: 7
