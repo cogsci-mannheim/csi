@@ -135,9 +135,9 @@ ninja.data = [{
             window.location.href = "/csi/blog/2026/welcome-to-cogsci-mannheim/";
           
         },
-      },{id: "post-first-meeting-on-representations",
+      },{id: "post-meeting-1-on-representations",
         
-          title: "First meeting on representations",
+          title: "Meeting 1 on representations",
         
         description: "Discussing representations",
         section: "Posts",
