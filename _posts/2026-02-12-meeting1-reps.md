@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First meeting on representations
+title: Meeting 1 on representations
 date: 2026-02-12 09:00:00
 description: Discussing representations
 tags: news welcome
