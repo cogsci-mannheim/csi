@@ -7,12 +7,12 @@ olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provide
 isbn: 978-3-032-05561-3 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: popular non-fiction
 tags: top-100
-date: 2024-08-23
-started: 2024-08-23
-finished: 2024-09-07
+date: 2026-04-01
+started: 2026-04-01
+finished: 2026-06-01
 released: 2025
 stars: 5
-status: Finished
+status: ongoing
 ---
 
 
