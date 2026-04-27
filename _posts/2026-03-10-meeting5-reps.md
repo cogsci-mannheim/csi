@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fifth meeting: final steps to submitting the joint proposal before the deadline"
+title: "Meeting 5: final steps to submitting the joint proposal before the deadline"
 date: 2026-03-10 09:00:00
 description: Working on the nomination proposal with Charles
 tags: news welcome
