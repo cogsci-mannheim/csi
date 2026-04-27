@@ -37,7 +37,7 @@ profiles:
     image_circular: false
     more_info: "Professor of Computational Science"
   - align: right
-    image: digs-charles.jpg
+    image: cas-charles.jpg
     content: charles_yang.md
     image_circular: false
     more_info: "Professor of Linguistics"       
