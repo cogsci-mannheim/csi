@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meeting 3 on representations
+title: "Meeting 3: working on representations"
 date: 2026-02-24 09:00:00
 description: Discussing representations and the nomination proposal with Charles
 tags: news welcome
