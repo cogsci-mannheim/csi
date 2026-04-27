@@ -4,9 +4,8 @@ permalink: /people/
 title: people
 nav: true
 nav_order: 7
----
 
----
+
 profiles:
   - align: right
     image: retreat_arndt.jpg
