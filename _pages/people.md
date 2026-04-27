@@ -10,3 +10,4 @@ nav_order: 7
     content: arndt_broeder.md
     image_circular: false
     more_info: "Professor of Experimental Psychology"
+---
