@@ -80,9 +80,9 @@ ninja.data = [{
             window.location.href = "/csi/blog/2026/meeting6-reps/";
           
         },
-      },{id: "post-fifth-meeting-final-steps-to-submitting-the-joint-proposal-before-the-deadline",
+      },{id: "post-meeting-5-final-steps-to-submitting-the-joint-proposal-before-the-deadline",
         
-          title: "Fifth meeting: final steps to submitting the joint proposal before the deadline",
+          title: "Meeting 5: final steps to submitting the joint proposal before the deadline",
         
         description: "Working on the nomination proposal with Charles",
         section: "Posts",
