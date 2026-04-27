@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fourth meeting: working on our joint proposal"
+title: "Meeting 4: working on our joint proposal"
 date: 2026-03-03 09:00:00
 description: Working on the nomination proposal with Charles
 tags: news welcome
