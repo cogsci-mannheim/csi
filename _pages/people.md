@@ -18,7 +18,7 @@ profiles:
     more_info: "Professor of Cognitive Psychology"
   - align: right
     image: cas-nicole.jpg
-    content: altvater_mackensen.md
+    content: nicole_altvater_mackensen.md
     image_circular: false
     more_info: "Professor of Psycholinguistics"
   - align: left
