@@ -10,8 +10,7 @@ profiles:
     image: retreat_arndt.jpg
     content: arndt_broeder.md
     image_circular: false
-    more_info: >
-      <p>Professor of Experimental Psychology</p>
+    more_info: "Professor of Experimental Psychology"
   - align: left
     image: retreat_beatrice.jpg
     content: beatrice_kuhlmann.md
