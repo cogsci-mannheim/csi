@@ -1,1 +1,1 @@
-This is the file of Arndt Bröder
+I am a cognitive psychologist, investigating the mechanisms of memory, decision-making, and judgment. To gain insights into cognitive processes, my work makes use of behavioral experiments and computational modeling. In addition to this "microscopic" approach, I am now excited to experience a "bigger picture" at the CAS.
