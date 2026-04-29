@@ -13,7 +13,7 @@ description: >
 
 ### Course Schedule
 
-| Week | Date | Topic | Materials |
+| Week | Date | Topic | Presenters |
 |:---:|:---:|:---|:---|
 | 1 | Sept 3 | **Introduction** | The CSI group |
 | 2 | Sept 10 | **Knowledge Representation** | Arndt Bröder |
