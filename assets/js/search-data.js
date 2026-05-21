@@ -120,9 +120,9 @@ ninja.data = [{
             window.location.href = "/csi/blog/2026/meeting8-reps/";
           
         },
-      },{id: "post-meeting-7-working-on-representations",
+      },{id: "post-meeting-7-working-on-representations-and-guest-lecture-by-colin-phillips-u-oxford",
         
-          title: "Meeting 7: working on representations",
+          title: "Meeting 7: working on representations and guest lecture by Colin Phillips (U Oxford)...",
         
         description: "Working on representations",
         section: "Posts",
