@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Meeting 8: working on representations"
+title: "Meeting 8: working on representations and guest lecture by Marcel Binz (Helmholtz Institute München)"
 date: 2026-04-21 09:00:00
 description: Working on representations
 tags: news welcome
