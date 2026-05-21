@@ -109,9 +109,9 @@ ninja.data = [{
             window.location.href = "/csi/blog/2026/meeting9-reps/";
           
         },
-      },{id: "post-meeting-8-working-on-representations",
+      },{id: "post-meeting-8-working-on-representations-and-guest-lecture-by-marcel-binz-helmholtz-institute-münchen",
         
-          title: "Meeting 8: working on representations",
+          title: "Meeting 8: working on representations and guest lecture by Marcel Binz (Helmholtz Institute...",
         
         description: "Working on representations",
         section: "Posts",
