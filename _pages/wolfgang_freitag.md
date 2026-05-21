@@ -1,1 +1,3 @@
-This is the page of Wolfgang Freitag. 
+I am professor theoretical philosophy. My research lies at the intersection of epistemology, logic, and the philosophy of language, with a particular focus on the norms governing belief and reasoning — that is, the question of what we ought to believe, when, and to what degree. Methodologically, my work draws on conceptual analysis, logic, and formal epistemology. Within the broader context of the CSI group, I am especially interested in the possibilities, limitations, and interpretation of cognitive models in both natural and artificial systems, including questions concerning representation and explanation.
+
+
