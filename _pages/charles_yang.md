@@ -1,1 +1,1 @@
-This is the page of Charles Yang.
+I'm a linguist and cognitive scientist and hold a professorship in the Deparment of Linguistics at the University of Pennsylvania. I am interested in how humans learn and how we learn differently from AI systems. Through the connection with the historical linguistics group, I met a group of cognitive science faculty members at Mannheim and have been delighted to be part of their research initiative supported by CAS
