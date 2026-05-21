@@ -65,7 +65,29 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/csi/blog/";
               },
-            },{id: "post-meeting-10-working-on-representations",
+            },{id: "post-meeting-12-working-on-representations-and-guest-lecture-by-michael-hahn-u-saarbrücken",
+        
+          title: "Meeting 12: working on representations and guest lecture by Michael Hahn (U Saarbrücken)...",
+        
+        description: "Working on representations",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/csi/blog/2026/meeting12-reps/";
+          
+        },
+      },{id: "post-meeting-11-working-on-representations",
+        
+          title: "Meeting 11: working on representations",
+        
+        description: "Working on representations",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/csi/blog/2026/meeting11-reps/";
+          
+        },
+      },{id: "post-meeting-10-working-on-representations",
         
           title: "Meeting 10: working on representations",
         
