@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Meeting 10: working on representations"
+title: "Meeting 10: working on representations and guest lecture by Markus Werning (U Bochum)"
 date: 2026-05-05 09:00:00
 description: Working on representations
 tags: news welcome
