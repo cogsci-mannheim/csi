@@ -40,5 +40,5 @@ profiles:
     image: cas-charles.jpg
     content: charles_yang.md
     image_circular: false
-    more_info: "Professor of Linguistics"       
+    more_info: "Professor of Linguistics University of Pennsylvania"       
 ---
