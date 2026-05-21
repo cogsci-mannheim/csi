@@ -87,9 +87,9 @@ ninja.data = [{
             window.location.href = "/csi/blog/2026/meeting11-reps/";
           
         },
-      },{id: "post-meeting-10-working-on-representations",
+      },{id: "post-meeting-10-working-on-representations-and-guest-lecture-by-markus-werning-u-bochum",
         
-          title: "Meeting 10: working on representations",
+          title: "Meeting 10: working on representations and guest lecture by Markus Werning (U Bochum)...",
         
         description: "Working on representations",
         section: "Posts",
