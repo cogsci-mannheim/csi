@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Meeting 7: working on representations"
+title: "Meeting 7: working on representations and guest lecture by Colin Phillips (U Oxford)"
 date: 2026-04-14 09:00:00
 description: Working on representations
 tags: news welcome
