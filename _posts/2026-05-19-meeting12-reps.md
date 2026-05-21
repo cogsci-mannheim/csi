@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Meeting 12: working on representations and guest lecture by Michael Hahn (U Saarbrücken)"
-date: 2026-19-05 09:00:00
+date: 2026-05-19 09:00:00
 description: Working on representations
 tags: news welcome
 categories: updates
