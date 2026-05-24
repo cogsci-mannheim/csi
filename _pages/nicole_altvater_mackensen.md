@@ -1,1 +1,1 @@
-This is the page of nam
+I am a psycholinguist and developmental psychologist. My research focuses on the question how we learn, process and represent language. Most of my work concentrates on the first years of life and early stages of language acquisition. I am interested in how language skills develop, and how this development is shaped by and interacts with other domains of cognition and the social environment. I am excited to dive deeper into philosophy and artificial intelligence at CAS.
