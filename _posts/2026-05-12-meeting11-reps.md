@@ -7,4 +7,4 @@ tags: news welcome
 categories: updates
 ---
 
-to do
+In our discussion today we went back to Markus Werning's semantic assumptions (and the N400 effect and how it is interpreted) as well as with a review of our discussion from last week. We then discussed his mininal traces theory again and how all of this overall links to our topic of representation.
