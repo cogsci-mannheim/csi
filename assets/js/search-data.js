@@ -65,7 +65,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/csi/blog/";
               },
-            },{id: "post-meeting-12-working-on-representations-and-guest-lecture-by-michael-hahn-u-saarbrücken",
+            },{id: "post-meeting-13-working-on-representations",
+        
+          title: "Meeting 13: working on representations",
+        
+        description: "Working on representations",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/csi/blog/2026/meeting13-reps/";
+          
+        },
+      },{id: "post-meeting-12-working-on-representations-and-guest-lecture-by-michael-hahn-u-saarbrücken",
         
           title: "Meeting 12: working on representations and guest lecture by Michael Hahn (U Saarbrücken)...",
         
