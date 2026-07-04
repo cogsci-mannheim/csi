@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Selected research and publications from the Cognitive Science Initiative at the University of Mannheim
+description: Selected research and publications from the members of the Cognitive Science Initiative
 nav: true
 nav_order: 2
 ---
