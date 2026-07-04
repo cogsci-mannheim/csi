@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "Selected research and publications from the Cognitive Science Initiative at the University of Mannheim",
+          description: "Selected research and publications from the members of the Cognitive Science Initiative",
           section: "Navigation",
           handler: () => {
             window.location.href = "/csi/publications/";
