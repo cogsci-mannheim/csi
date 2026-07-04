@@ -219,7 +219,12 @@ ninja.data = [{
             window.location.href = "/csi/blog/2026/meeting1-reps/";
           
         },
-      },{id: "books-representation-of-language-philosophical-issues-in-a-chomskyan-linguistics",
+      },{id: "books-lot2-the-language-of-thought-revisited",
+          title: 'LOT2: The Language of Thought Revisited',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/csi/books/fodor-2008-language-of-thought/";
+            },},{id: "books-representation-of-language-philosophical-issues-in-a-chomskyan-linguistics",
           title: 'Representation of Language: Philosophical Issues in a Chomskyan Linguistics',
           description: "",
           section: "Books",handler: () => {
