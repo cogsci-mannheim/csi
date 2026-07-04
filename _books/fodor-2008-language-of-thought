@@ -2,7 +2,7 @@
 layout: book-review
 title: "The Illusion Engine: The Quest for Machine Consciousness" 
 author: Kristina Šekrst
-cover: assets/img/book_covers/sekrst-illusion-engine.jpg
+cover: assets/img/book_covers/fodor-2008.jpg
 isbn: 978-3-032-05561-3 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: popular non-fiction
 tags: top-100
