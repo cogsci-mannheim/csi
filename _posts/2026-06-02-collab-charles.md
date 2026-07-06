@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Working and collaborating with Charles"
-date: 2026-06-02 09:00:00
+date: 2026-07-02 09:00:00
 description: Working on representations
 tags: news welcome
 categories: updates
