@@ -76,6 +76,17 @@ ninja.data = [{
             window.location.href = "/csi/blog/2026/meeting13-reps/";
           
         },
+      },{id: "post-working-and-collaborating-with-charles",
+        
+          title: "Working and collaborating with Charles",
+        
+        description: "Working on representations",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/csi/blog/2026/collab-charles/";
+          
+        },
       },{id: "post-meeting-12-working-on-representations-and-guest-lecture-by-michael-hahn-u-saarbrücken",
         
           title: "Meeting 12: working on representations and guest lecture by Michael Hahn (U Saarbrücken)...",
